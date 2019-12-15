@@ -2,7 +2,7 @@
 
 1. ### jvm内存区域
 
-![jvm](./.img\jvm.jpg)
+![jvm](./.img/jvm.jpg)
 
 方法区：类信息、常量、static 、JIT    （信息共享）
 
