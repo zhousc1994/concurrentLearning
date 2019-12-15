@@ -18,7 +18,7 @@ PC：java线程的私有数据，这个数据就是执行下一条指令的地�
 
 2. #### Java内存模型   Java memory model   JMM(规范,抽象的模型) 
 
-   ![jmm](./.img\jmm.png)
+   ![jmm](./.img/jmm.png)
 
 1）主内存：共享的信息
 
