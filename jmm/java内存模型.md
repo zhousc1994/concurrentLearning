@@ -10,7 +10,7 @@ Java堆区：实例对象     GC   （信息共享）   (OOM)
 
 VM stack：Java方法在运行的内存模型   (OOM)	
 
-![vmStack](./.img\vmStack.png)
+![vmStack](./.img/vmStack.png)
 
 PC：java线程的私有数据，这个数据就是执行下一条指令的地址
 
@@ -34,7 +34,7 @@ PC：java线程的私有数据，这个数据就是执行下一条指令的地�
 
 ​	1)1) 硬件架构
 
-![cup](./.img\cup.png)
+![cup](./.img/cup.png)
 
 
 
@@ -50,7 +50,7 @@ b) 解决方案：
 
 2) Java线程与硬件处理器
 
-![OS](./.img\OS.png)
+![OS](./.img/OS.png)
 
 1) Java内存模型的必要性
 
