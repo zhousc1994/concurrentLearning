@@ -86,13 +86,13 @@ synchronized(类.class) {}
 
   Jconsole
 
-![jconle](.img/jconle.png)
+![jconle](.img\jconle.png)
 
-![jconsole](.img/jconsole.png)
+![jconsole](.img\jconsole.png)
 
 Jstack pid   命令
 
-![jconsole](.img/jstack.png)
+![jconsole](.img\jstack.png)
 
 #### 2、JVM指令分析
 
@@ -102,7 +102,7 @@ Jstack pid   命令
 
   Monitorexit
 
-![](.img/mon.png)
+![](.img\mon.png)
 
 Monitor
 
@@ -118,7 +118,7 @@ Monitorexit
 
 Javap -v
 
-![](.img/monexit.png)
+![](.img\monexit.png)
 
 以上是代码块的加锁monitorenter和monitorExit配合使用
 
@@ -128,7 +128,7 @@ Javap -v
 
 ACC_SYNCHRONIZED
 
-![](.img/acc.png)
+![](.img\acc.png)
 
 #### 3、使用synchronized注意的问题
 
@@ -154,7 +154,7 @@ ACC_SYNCHRONIZED
 
 一个对象实例包含：对象头、实例变量、填充数据
 
-![](.img/object.png)
+![](.img\object.png)
 
 对象头：加锁的基础
 
@@ -168,9 +168,9 @@ ACC_SYNCHRONIZED
 
 hashCode的作用：HashSet  
 
-![](.img/hash.png)
+![](.img\hash.png)
 
-![](.img/lock.png)
+![](.img\lock.png)
 
 无锁状态:没有加锁
 
